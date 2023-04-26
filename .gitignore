@@ -1,0 +1,12 @@
+# Compiled object files
+*.o
+*.obj
+
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# IDE files
+.vscode/
+.idea/
